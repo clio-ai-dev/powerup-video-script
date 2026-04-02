@@ -9,7 +9,7 @@
 
 Claude Code just dropped something really cool in their latest update, and I haven't seen anyone talking about it yet.
 
-It's called slash powerup, and it's basically an interactive tutorial system, with animated demos, built right into the terminal.
+It's called powerup, and it's basically an interactive tutorial system, with animated demos, built right into the terminal.
 
 Let me show you.
 
@@ -19,7 +19,7 @@ Let me show you.
 
 ## SECTION 2 — MENU (read as the powerup list appears)
 
-You type slash powerup, and you get this menu with ten lessons. Each one covers a feature that honestly, most developers never even find.
+You type powerup, and you get this menu with ten lessons. Each one covers a feature that honestly, most developers never even find.
 
 Let's go through the ones I think matter the most.
 
@@ -31,7 +31,7 @@ Starting with this first one — Talk to your codebase.
 
 ## SECTION 3 — PU1: TALK TO YOUR CODEBASE (read while the animated demo plays)
 
-This one is about using the at symbol to reference files directly in your prompt. You get fuzzy search, it finds the file, reads it, and Claude can actually answer with full context.
+This one is about using the at symbol to reference files directly in your prompt. You get a search box, it finds the file, reads it, and Claude can actually answer with full context.
 
 No more copying and pasting code into the prompt. And you can even point to specific line numbers.
 
@@ -99,7 +99,7 @@ This is where it gets really interesting.
 
 Claude can actually spin up copies of itself to work in parallel. You say, "use sub-agents to search these five directories," and it fans out. You can also define specialized agents in a folder — a test runner, a code reviewer, a docs writer — each with its own tools and instructions.
 
-Go update to the latest version and type slash powerup. I think you'll be surprised by how many features are in there that you didn't even know about.
+Go update to the latest version and type powerup. I think you'll be surprised by how many features are in there that you didn't even know about.
 
 [END]
 
