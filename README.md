@@ -19,7 +19,7 @@ Let me show you.
 
 ## SECTION 2 — MENU (read as the powerup list appears)
 
-You type powerup, and you get this menu with ten lessons. Each one covers a feature that honestly, most developers never even find.
+You type slash powerup, and you get this menu with ten lessons. Each one covers a feature that honestly, most developers never even find.
 
 Let's go through the ones I think matter the most.
 
