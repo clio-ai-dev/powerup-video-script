@@ -99,7 +99,7 @@ This is where it gets really interesting.
 
 Claude can actually spin up copies of itself to work in parallel. You say, "use sub-agents to search these five directories," and it fans out. You can also define specialized agents in a folder — a test runner, a code reviewer, a docs writer — each with its own tools and instructions.
 
-Go update to the latest version and type powerup. I think you'll be surprised by how many features are in there that you didn't even know about.
+Go update to the latest version and type slash powerup. I think you'll be surprised by how many features are in there that you didn't even know about.
 
 [END]
 
