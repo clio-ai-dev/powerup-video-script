@@ -7,7 +7,7 @@
 
 ## SECTION 1 — INTRO (read over the welcome screen)
 
-Claude Code just dropped something really cool in their latest update, and I haven't seen anyone talking about it yet.
+Claude Code just dropped something really cool in their latest update.
 
 It's called powerup, and it's basically an interactive tutorial system, with animated demos, built right into the terminal.
 
